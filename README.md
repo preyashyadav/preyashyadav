@@ -5,14 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyash-tryin-to-code" alt="preyash-tryin-to-code" /></a> </p>
 
+- 📫 How to reach me **preyashyadav29@gmail.com**
 - 📫 How to reach me **the.web.of.spidey@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">**Connect with me:**</h3>
 <p align="left">
-<a href="https://codepen.io/preyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="preyash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/preyash yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/heyspidey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey" height="30" width="40" /></a>
-<a href="https://www.instagram.com/p_r.e_y_a.s_h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyspidey" height="30" width="40" /></a>
+<a href="https://codepen.io/preyash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="preyash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/preyash yadav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/heyspidey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/p_r.e_y_a.s_h/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyspidey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/preyashy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="heyspidey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
