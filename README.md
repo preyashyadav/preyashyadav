@@ -9,7 +9,7 @@
 - 📫 How to reach me **the.web.of.spidey@gmail.com**
 
 <h3 align="left">**Connect with me:**</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/preyash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="preyash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/preyash yadav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/heyspidey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey" height="30" width="40" /></a>
