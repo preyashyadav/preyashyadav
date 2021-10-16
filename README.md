@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
 <h3 align="center">A passionate frontend developer and an aspiring full stack developer from Varanasi, India.</h3>
-<iframe src="https://giphy.com/embed/3Wv2Mfxh3Lf2M8eq9z" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-eevee-prite-3Wv2Mfxh3Lf2M8eq9z">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3Wv2Mfxh3Lf2M8eq9z" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="preyash-tryin-to-code" /> </p>
 
