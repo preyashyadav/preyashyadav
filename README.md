@@ -1,4 +1,5 @@
-![coding](https://user-images.githubusercontent.com/73031725/137592167-c78f7225-c528-468f-a784-618dc90d1ec7.gif)
+
+<div align="center">![coding](https://user-images.githubusercontent.com/73031725/137592167-c78f7225-c528-468f-a784-618dc90d1ec7.gif)</div>
 
 <h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
 <h3 align="center">A passionate frontend developer and an aspiring full stack developer from Varanasi, India.</h3>
