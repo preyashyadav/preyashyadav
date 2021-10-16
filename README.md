@@ -25,7 +25,7 @@
 
 
 
-## GitHub Stats📊
+## GitHub Stats 📊
 <table>
   <tr>
       <p align="center">
