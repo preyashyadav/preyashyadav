@@ -47,7 +47,7 @@
 </table>
 <table> 
    <tr>
-      <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Preyash-tryin-to-code&bg_color=073642&color=859900&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></p>
+      <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Preyash-tryin-to-code&bg_color=212121&color=FFFFFF&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></p>
   </tr>
 </table>
 
