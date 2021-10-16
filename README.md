@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="preyash-tryin-to-code" /> </p>
 
-
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+</p>
 
 - 📫 How to reach me **preyashyadav29@gmail.com**
 
