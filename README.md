@@ -40,8 +40,8 @@
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code"></p>
   </tr>
 </table>
-<table>  
-<!--   <tr>
+<!-- <table>  
+  <tr>
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=solarized_dark"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table> -->
@@ -50,7 +50,10 @@
       <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Preyash-tryin-to-code&bg_color=212121&color=FFFFFF&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></p>
   </tr>
 </table>
-![city](https://user-images.githubusercontent.com/73031725/137598116-bf00a5a9-613c-4c85-b8ca-93101f241f94.gif)
+![city](https://user-images.githubusercontent.com/73031725/137598162-fcd0d7b3-77e0-4e02-9c43-5482d7a5734c.gif)
+
+
+  
 
 
 
