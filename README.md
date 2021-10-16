@@ -1,4 +1,4 @@
-![work](https://user-images.githubusercontent.com/73031725/137591761-0ea0c3df-ba23-4c1e-bc73-44e12d88dacd.gif)
+
 <h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
 <h3 align="center">A passionate frontend developer and an aspiring full stack developer from Varanasi, India.</h3>
 
