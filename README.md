@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
 <h3 align="center">A passionate frontend developer and an aspiring full stack developer from Varanasi, India.</h3>
-
+<div class="tenor-gif-embed" data-postid="15143463" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mochi-mochi-hello-white-mochi-mochi-mochi-mochi-hello-hello-wave-gif-15143463">Mochi Mochi Hello White Wave Sticker</a>from <a href="https://tenor.com/search/mochi+mochi+hello+white-stickers">Mochi Mochi Hello White Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="preyash-tryin-to-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyash-tryin-to-code" alt="preyash-tryin-to-code" /></a> </p>
