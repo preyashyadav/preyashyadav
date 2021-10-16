@@ -50,7 +50,7 @@
       <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Preyash-tryin-to-code&bg_color=212121&color=FFFFFF&line=006400&point=35aea1&area=true" display=block width=100% height=auto alt="2"></p>
   </tr>
 </table>
-  
-<p align="center">  ![home1](https://user-images.githubusercontent.com/73031725/137598030-564a587a-cedc-4a7e-89ab-de1367553cd8.gif)</p>
+![city](https://user-images.githubusercontent.com/73031725/137598116-bf00a5a9-613c-4c85-b8ca-93101f241f94.gif)
+
 
 
