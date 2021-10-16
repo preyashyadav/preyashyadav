@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="preyash-tryin-to-code" /> </p>
 
-- 📫 How to reach me **preyashyadav29@gmail.com**
+📫 How to reach me **preyashyadav29@gmail.com**
 
 ## Connect with me:
 <p align="center">
