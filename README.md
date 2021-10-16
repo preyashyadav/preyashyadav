@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="preyash-tryin-to-code" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 📫 How to reach me **preyashyadav29@gmail.com**
