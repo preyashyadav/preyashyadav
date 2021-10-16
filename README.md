@@ -10,11 +10,11 @@
 
 ## Connect with me 👨‍💻
 <p align="center">
-<a href="https://codepen.io/your-work/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="preyash" height="30" width="40" /></a>
-<a href="https://www.blogger.com/profile/12732308473402981224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="preyash" height="30" width="40" /></a>
- <a href="https://twitter.com/preyash29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preyash" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/preyash-yadav-827a421b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/heyspidey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey" height="30" width="40" /></a>
+<a href="https://www.blogger.com/profile/12732308473402981224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="preyash" height="30" width="40" /></a>
+<a href="https://codepen.io/your-work/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="preyash" height="30" width="40" /></a>
+<a href="https://twitter.com/preyash29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preyash" height="30" width="40" /></a>
 <a href="https://www.instagram.com/p_r.e_y_a.s_h/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyspidey" height="30" width="40" /></a>
 </p>
 
