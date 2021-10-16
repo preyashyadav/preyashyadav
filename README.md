@@ -21,13 +21,13 @@
 
 <table>
   <tr>
-      <td>
       <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
-      </p>
-    </td>
+    </p>
   </tr>
 </table>
+
+
 <table> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Preyash-tryin-to-code&theme=dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
@@ -37,9 +37,11 @@
 
 <table>
   <tr>
-    <td><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code"></p></td>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code"></p>
   </tr>
 </table>
+
+
 <table>  
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
