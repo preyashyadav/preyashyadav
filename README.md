@@ -51,6 +51,6 @@
   </tr>
 </table>
   
-<br> <br> ![home1](https://user-images.githubusercontent.com/73031725/137598030-564a587a-cedc-4a7e-89ab-de1367553cd8.gif)
+<p align="center">  ![home1](https://user-images.githubusercontent.com/73031725/137598030-564a587a-cedc-4a7e-89ab-de1367553cd8.gif)</p>
 
 
