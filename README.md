@@ -1,6 +1,5 @@
 <!-- ![coding1](https://user-images.githubusercontent.com/73031725/137597741-4f90a2dc-ff9e-465e-baa4-0ad05997e982.gif) -->
-
-![coding3](https://user-images.githubusercontent.com/73031725/137602707-f3db22fb-323f-47d9-8ec0-37472b105a99.gif)
+![op2](https://user-images.githubusercontent.com/73031725/137602843-437a067e-7d1d-4b57-b19c-f9d82a5b3010.gif)
 
 
 <h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
