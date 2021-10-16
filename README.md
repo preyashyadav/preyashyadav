@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
 <h3 align="center">A passionate frontend developer and an aspiring full stack developer from Varanasi, India.</h3>
 
-![danny-howe-PfyKUyNvgIQ-unsplash](https://user-images.githubusercontent.com/73031725/137591647-31d307f8-cf02-4452-a963-4cb39580d4f0.jpg)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="preyash-tryin-to-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyash-tryin-to-code" alt="preyash-tryin-to-code" /></a> </p>
