@@ -35,11 +35,11 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyash-tryin-to-code&theme=dark&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
-<table>
+<!-- <table>
   <tr>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code"></p>
   </tr>
-</table>
+</table> -->
 <table>  
   <tr>
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=solarized_dark"  display=block width=100% height=auto alt="1"></p>
