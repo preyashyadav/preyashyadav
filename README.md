@@ -1,4 +1,5 @@
-![coding1](https://user-images.githubusercontent.com/73031725/137597741-4f90a2dc-ff9e-465e-baa4-0ad05997e982.gif)
+
+![study](https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif)
 <h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
 <h3 align="center">A passionate frontend developer and an aspiring full stack developer from Varanasi, India.</h3>
 
@@ -59,10 +60,9 @@
 
 
 
-<!--   ![op3](https://user-images.githubusercontent.com/73031725/137602962-265ad132-ca65-458d-ac14-fb4408e9dae1.gif) -->
 
+![coding1](https://user-images.githubusercontent.com/73031725/137597741-4f90a2dc-ff9e-465e-baa4-0ad05997e982.gif)
 
-![study](https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif)
 
 
 
