@@ -48,7 +48,7 @@
 </table>
 <table>  
   <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=solarized_dark"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
 <table> 
