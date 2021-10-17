@@ -26,11 +26,12 @@
 
 <br>
 
-## GitHub Stats 📊
+## GitHub Stats 📊 
 <table>
   <tr>
-      <p align="center">
+     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
+        <img src="https://user-images.githubusercontent.com/73031725/137619917-feb93760-4774-41ea-b10f-c58faeedee33.gif" width="120px">
     </p>
   </tr>
 </table>
@@ -42,7 +43,10 @@
 </table>
 <table>
   <tr>
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code"></p>
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code">
+      <img src="https://user-images.githubusercontent.com/73031725/137619917-feb93760-4774-41ea-b10f-c58faeedee33.gif" width="70px">
+    </p>
   </tr>
 </table>
 <table>  
