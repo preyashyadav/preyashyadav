@@ -34,9 +34,9 @@
 <table>
   <tr>
      <p align="center">
-      <img src="https://user-images.githubusercontent.com/73031725/137621021-19d1d40f-a29e-404f-9135-4f5321a8364d.gif" width="120px">
+      <img src="https://user-images.githubusercontent.com/73031725/137623618-3ca683ce-a649-406a-b48f-f676478ec204.gif" width="120px">
         <img src="https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
-        <img src="https://user-images.githubusercontent.com/73031725/137622019-ab967ade-0374-41d0-83e2-d254dff60f2a.gif" width="120px">
+      <img src="https://user-images.githubusercontent.com/73031725/137621021-19d1d40f-a29e-404f-9135-4f5321a8364d.gif" width="120px">
     </p>
   </tr>
 </table>
