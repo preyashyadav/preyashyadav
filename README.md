@@ -1,6 +1,5 @@
-
-![study](https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif)
-<h1 align="center">Hi 👋, I'm Preyash, you can call me Spidey🕸</h1>
+<img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Preyash, you can call me Spidey🕸</h1>
 <h3 align="center">A passionate frontend developer and an aspiring full stack developer from Varanasi, India.</h3>
 
 
