@@ -40,15 +40,15 @@
 </table>
 <table> 
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Preyash-tryin-to-code&theme=dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyash-tryin-to-code&theme=dark&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Preyash-tryin-to-code&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyash-tryin-to-code&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
 <table>
   <tr>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="140px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=radical" alt="preyash-tryin-to-code">
       <img src="https://user-images.githubusercontent.com/73031725/137621641-eb0e1dbe-c625-405c-bd0f-fc3ab1454943.gif" width="160px">
     </p>
   </tr>
