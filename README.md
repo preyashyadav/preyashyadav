@@ -32,9 +32,7 @@
      <p align="center">
       <img src="https://user-images.githubusercontent.com/73031725/137621021-19d1d40f-a29e-404f-9135-4f5321a8364d.gif" width="120px">
         <img src="https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
-        <img src="https://user-images.githubusercontent.com/73031725/137621139-dbb25142-e9e0-4819-b30c-8a43cac53e54.gif" width="120px">
-
-
+        <img src="https://user-images.githubusercontent.com/73031725/137621160-44976263-adf3-43ec-bd80-bcface619046.gif" width="120px">
     </p>
   </tr>
 </table>
@@ -49,7 +47,7 @@
     <p align="center">
       <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="120px">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code">
-      <img src="https://user-images.githubusercontent.com/73031725/137620650-c74d37f8-7e49-411b-b397-988841d04d4f.gif" width="120px"> 
+      <img src="https://user-images.githubusercontent.com/73031725/137621139-dbb25142-e9e0-4819-b30c-8a43cac53e54.gif" width="120px">
     </p>
   </tr>
 </table>
