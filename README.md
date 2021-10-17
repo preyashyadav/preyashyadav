@@ -47,11 +47,11 @@
     <p align="center">
       <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="120px">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code">
-      <img src="https://user-images.githubusercontent.com/73031725/137621139-dbb25142-e9e0-4819-b30c-8a43cac53e54.gif" width="120px">
+      <img src="https://user-images.githubusercontent.com/73031725/137621520-224ace39-9eac-4048-845b-85fcf2de8995.gif" width="100px">
     </p>
   </tr>
 </table>
-<table>  
+<table> 
   <tr>
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
