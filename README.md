@@ -47,7 +47,7 @@
     <p align="center">
       <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="120px">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code">
-      <img src="https://user-images.githubusercontent.com/73031725/137621520-224ace39-9eac-4048-845b-85fcf2de8995.gif" width="100px">
+      <img src="https://user-images.githubusercontent.com/73031725/137621641-eb0e1dbe-c625-405c-bd0f-fc3ab1454943.gif" width="140px">
     </p>
   </tr>
 </table>
@@ -61,10 +61,6 @@
       <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Preyash-tryin-to-code&bg_color=212121&color=FFFFFF&line=a311f2&point=a1ed12&area=true" display=block width=100% height=auto alt="2"></p>
   </tr>
 </table>
-
-
-
-
 
 
 ![coding1](https://user-images.githubusercontent.com/73031725/137597741-4f90a2dc-ff9e-465e-baa4-0ad05997e982.gif)
