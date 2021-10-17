@@ -44,8 +44,9 @@
 <table>
   <tr>
     <p align="center">
+      <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="200px">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=dark" alt="preyash-tryin-to-code">
-      <img src="https://user-images.githubusercontent.com/73031725/137619917-feb93760-4774-41ea-b10f-c58faeedee33.gif" width="70px">
+      <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="200px">
     </p>
   </tr>
 </table>
