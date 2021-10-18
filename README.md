@@ -1,13 +1,26 @@
 <img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/137622078-5a00cc56-0844-4962-aa5f-17d968130cbd.gif" width="60px">Hi, I'm Preyash, you can call me Spidey🕸</h1>
-<h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a frontend developer and an aspiring full stack developer.</h3>
+<h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a frontend developer and an aspiring full stack developer.</h3><br>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code"></p>
+<br>
+<h2>About Me:</h2>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code" /> </p>
+- 🌱 I’m currently learning **React JS, Flask, and many more cool techs.**
 
-📫 How to reach me **preyashyadav29@gmail.com** <br>
+- 👯 I’m looking to collaborate on **writing Research Papers, building cool projects.**
 
-<h2><img src="https://user-images.githubusercontent.com/73031725/137622309-23995659-cd93-45ef-afdf-ee5fc462fd34.gif" width="60px"> Connect with me:</h2> 
+- 💬 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
+
+- 💬 Ask me about(Non-Technical): **Songs, Animals, Nature, Documentaries**.
+
+- 📝 Check out my blogs: [https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html](https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html)
+
+- 📫 Inbox always open for mails: **preyashyadav29@gmail.com** <br>
+
+
+
+<h2><img src="https://user-images.githubusercontent.com/73031725/137622309-23995659-cd93-45ef-afdf-ee5fc462fd34.gif" width="60px">Connect with me:</h2> 
 <p align="center">
 <a href="https://www.linkedin.com/in/preyash-yadav-827a421b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/heyspidey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey" height="30" width="40" /></a>
