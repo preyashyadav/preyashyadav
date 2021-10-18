@@ -27,7 +27,7 @@
 
 <br>
 
-## GitHub Stats <img src="https://user-images.githubusercontent.com/73031725/137622415-bad73435-3790-471b-a5f2-0dabb8b58543.gif" width="40px">
+<h2><img src="https://user-images.githubusercontent.com/73031725/137622415-bad73435-3790-471b-a5f2-0dabb8b58543.gif" width="60px"> GitHub Stats:</h2>
 <table>
   <tr>
      <p align="center">
@@ -63,7 +63,11 @@
   </tr>
 </table>
 
-![coding1](https://user-images.githubusercontent.com/73031725/137597741-4f90a2dc-ff9e-465e-baa4-0ad05997e982.gif)
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73031725/137763059-4c7af05f-a630-48f6-8331-959ce8ed606a.gif" width="5000px">
 
 
 
