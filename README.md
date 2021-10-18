@@ -7,8 +7,10 @@
 
 📫 How to reach me **preyashyadav29@gmail.com** <br>
 
-## Connect with me <img src="https://user-images.githubusercontent.com/73031725/137622309-23995659-cd93-45ef-afdf-ee5fc462fd34.gif" width="40px">
-<p align="center">
+<h2><img src="https://user-images.githubusercontent.com/73031725/137622309-23995659-cd93-45ef-afdf-ee5fc462fd34.gif" width="60px"> Connect with me:</h2>
+  
+  
+ <p align="center">
 <a href="https://www.linkedin.com/in/preyash-yadav-827a421b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/heyspidey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey" height="30" width="40" /></a>
 <a href="https://www.blogger.com/profile/12732308473402981224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="preyash" height="30" width="40" /></a>
