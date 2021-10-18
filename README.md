@@ -47,7 +47,7 @@
 <table>
   <tr>
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="140px">
+      <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="140px" class="try">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=radical" alt="preyash-tryin-to-code">
       <img src="https://user-images.githubusercontent.com/73031725/137621641-eb0e1dbe-c625-405c-bd0f-fc3ab1454943.gif" width="160px">
     </p>
@@ -64,6 +64,12 @@
   </tr>
 </table>
 
+
+@media screen and (max-width:480px){
+  .try{
+    width=50px;
+  }
+}
 
 ![coding1](https://user-images.githubusercontent.com/73031725/137597741-4f90a2dc-ff9e-465e-baa4-0ad05997e982.gif)
 
