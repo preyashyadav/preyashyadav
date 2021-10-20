@@ -7,15 +7,17 @@
 <h2><img src="https://user-images.githubusercontent.com/73031725/137813114-64d70566-ba85-4218-8bbf-8146fd524bee.gif" width="20px"> About Me:</h2>
 
 
+- 🙋 I’m an INFJ, that says alot about me 😂
+
 - 🌱 I’m currently learning **React JS, Flask, and many more cool techs.**
 
-- 👯 I’m looking to collaborate on **writing Research Papers, building cool projects.**
+- 👀 I’m looking to collaborate on **writing Research Papers, building cool projects.**
 
-- 💬 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
+- 🧑‍💻 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
 
-- 💬 Ask me about(Non-Technical): **Songs, Animals, Nature, Documentaries**.
+- 🐆 Ask me about(Non-Technical): **Songs, Animals, Nature, Documentaries**.
 
-- 📝 Check out my blogs: [https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html](https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html)
+- 📝 Check out my blog: [https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html](https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html)
 
 - 📫 Inbox always open for mails: **preyashyadav29@gmail.com** <br>
 
