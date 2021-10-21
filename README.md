@@ -7,7 +7,7 @@
 <h2><img src="https://user-images.githubusercontent.com/73031725/137813114-64d70566-ba85-4218-8bbf-8146fd524bee.gif" width="20px"> About Me:</h2>
 
 
-- 🙋 I’m an INFJ
+- 🙋 I’m an INFJ-T
 
 - 🌱 I’m currently learning **React JS, Flask, and many more cool techs.**
 
