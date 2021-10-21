@@ -18,7 +18,7 @@
 
 - 📝 Check out my blog: [https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html](https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html)
 
-- 📫 Inbox always open for mails: **preyashyadav29@gmail.com** <br>
+- 📫 You can mail me at: **preyashyadav29@gmail.com** <br>
 
 
 <h2><img src="https://user-images.githubusercontent.com/73031725/137813700-fd5e8e2e-048c-4fa5-a11e-9969a1ec9059.gif" width="25px"> Connect with me:</h2> 
