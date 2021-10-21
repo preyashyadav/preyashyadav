@@ -3,7 +3,6 @@
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a frontend developer and an aspiring full stack developer.</h3><br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code"></p>
-<br>
 <h2><img src="https://user-images.githubusercontent.com/73031725/137813114-64d70566-ba85-4218-8bbf-8146fd524bee.gif" width="20px"> About Me:</h2>
 
 
