@@ -12,7 +12,7 @@
 
 - 👀 I’m looking to collaborate on **writing Research Papers, building cool projects.**
 
-- 🧑‍💻 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
+- 💻 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
 
 - 🐆 Ask me about(Non-Technical): **Songs, Animals, Nature, Documentaries**.
 
