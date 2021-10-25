@@ -14,7 +14,7 @@
 
 - 💻 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
 
-- 🪴 Ask me about(Non-Technical): **Songs, Animals, Nature, Documentaries**.
+- 🎶 Ask me about(Non-Technical): **Songs, Animals, Nature, Documentaries**.
 
 - 📝 Check out my blog: [https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html](https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html)
 
