@@ -72,12 +72,12 @@
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
-<!-- <table> 
+<table> 
    <tr>
       <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Preyash-tryin-to-code&bg_color=212121&color=FFFFFF&line=a311f2&point=a1ed12&area=true" display=block width=100% height=auto alt="2"></p>
   </tr>
 </table>
- -->
+
 
 
 
