@@ -18,6 +18,8 @@
 
 - 📝 Check out my blog: [https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html](https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html)
 
+- 🎪 We can interact at my server: https://discord.gg/yTeH8bK9WM
+
 - 📫 You can mail me at: preyashyadav29@gmail.com <br>
 
 
