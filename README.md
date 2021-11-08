@@ -1,4 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
+<!-- <img src=""> -->
+
+
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/137622078-5a00cc56-0844-4962-aa5f-17d968130cbd.gif" width="60px">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a frontend developer and an aspiring full stack developer.</h3><br>
@@ -94,7 +97,7 @@
 </table>
 
 
-<img src="https://user-images.githubusercontent.com/73031725/137763059-4c7af05f-a630-48f6-8331-959ce8ed606a.gif" width="5000px">
+<img src="https://user-images.githubusercontent.com/73031725/140681260-68fb2916-3a67-42a8-931e-c035cb7d54ff.gif" width="5000px">
 
 
 
