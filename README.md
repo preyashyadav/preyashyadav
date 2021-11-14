@@ -41,7 +41,6 @@
 <a href="https://www.instagram.com/p_r.e_y_a.s_h/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyspidey" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/wuxiv9rvndf46t12cxfwbb7j2?si=5765f49661a74d3d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="heyspidey" height="30" width="40" /></a>
 <a href="https://discord.gg/yTeH8bK9WM" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="heyspidey" height="30" width="40" /></a>
-<a href="https://discord.gg/yTeH8bK9WM" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/badgr.svg" alt="heyspidey" height="30" width="40" /></a>
 </p>
 <br>
 
