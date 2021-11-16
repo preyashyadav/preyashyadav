@@ -21,7 +21,8 @@
 
 - 🎶 Ask me about(Non-Technical): **Songs, Animals, Nature and Documentaries**.
 
-- 📝 Check out my blog: [https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html](https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html)
+- 📝 Check out my blogs: 
+  <a href="https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a>, <a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃</a>
 
 - 🕸️ Join my server for more interaction: https://discord.gg/yTeH8bK9WM
 
