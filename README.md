@@ -24,7 +24,7 @@
 - 📝 Check out my blogs: 
   <a href="https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a>, <a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃</a>
 
-- 🕸️ Join my server for more interaction: https://discord.gg/yTeH8bK9WM
+- 🕸️ Do join  my <a href="https://discord.gg/yTeH8bK9WM"> Discord </a> server for more interaction!
 
 - 📫 You can mail me at: preyashyadav29@gmail.com <br>
 
