@@ -1,8 +1,4 @@
 <img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
-<!-- <img src=""> -->
-
-
-
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/137622078-5a00cc56-0844-4962-aa5f-17d968130cbd.gif" width="60px">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
