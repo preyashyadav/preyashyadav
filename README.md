@@ -22,7 +22,7 @@
 
 - 🕸️ Do join  my <a href="https://discord.gg/yTeH8bK9WM"> discord </a> server for more interaction!
 
-- 📫 <a href="mailto:preyashyadav29@gmail.com">Mail me</a>
+- 📫 <a href="mailto:preyashyadav29@gmail.com">Send mail</a> to Preyash.
 
 
 <h2><img src="https://user-images.githubusercontent.com/73031725/137813700-fd5e8e2e-048c-4fa5-a11e-9969a1ec9059.gif" width="25px"> Connect with me:</h2> 
