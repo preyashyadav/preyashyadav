@@ -18,7 +18,12 @@
 - 🎶 Ask me about(Non-Technical): **Songs, Animals, Nature and Documentaries**.
 
 - 📝 Check out my blogs: 
-  <a href="https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a>, <a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃</a>
+
+<ul>
+  <li><a href="https://blog.owaspvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a></li>
+  <li><a href="https://blog.owaspvit.com/2021/11/creating-your-own-chrome-extension-walk.html?showComment=1637822800786#c2209464083529784720">Build yor own Chrome Extension 🛠</a></li>
+  <li><a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃</a></li>
+</ul>
 
 - 🕸️ Do join  my <a href="https://discord.gg/yTeH8bK9WM"> discord </a> server for more interaction!
 
