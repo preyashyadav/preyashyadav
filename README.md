@@ -98,7 +98,6 @@
   </tr>
 </table>
 
-<iframe src="https://open.spotify.com/embed/track/4XII12nbsvJblXfG1I2QR4?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <!-- <img src="https://user-images.githubusercontent.com/73031725/140681260-68fb2916-3a67-42a8-931e-c035cb7d54ff.gif" width="5000px"> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif"> -->
