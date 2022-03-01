@@ -19,7 +19,8 @@
 
 - 📝 Check out my blogs: <a href="https://blog.cyscomvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a>, 
 <a href="https://blog.cyscomvit.com/2021/11/creating-your-own-chrome-extension-walk.html">Build your own Chrome Extension 🛠</a>, 
-<a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃</a>
+<a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃, </a>
+<a href="https://blog-intelstudent.hashnode.dev/reinforcement-learning-by-intel-ai"> Reinforcement Learning and RL Coach Intel AI 🤖</a>
 
 
 - 🕸️ Do join  my <a href="https://discord.gg/yTeH8bK9WM"> discord </a> server for more interaction!
