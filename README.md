@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/137622078-5a00cc56-0844-4962-aa5f-17d968130cbd.gif" width="10px">Hi, I'm Preyash, you can call me Spidey🕸</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/137622078-5a00cc56-0844-4962-aa5f-17d968130cbd.gif" style="width:10px;">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a frontend developer and an aspiring full stack developer.</h3><br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code"></p>
