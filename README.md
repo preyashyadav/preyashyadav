@@ -1,12 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
 
-![hi-resize]()
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a frontend developer and an aspiring full stack developer.</h3><br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code"></p>
-<h2><img src="https://user-images.githubusercontent.com/73031725/137813114-64d70566-ba85-4218-8bbf-8146fd524bee.gif" width="15px"> About Me:</h2>
+<h2><img src="" > About Me:</h2>
 
 
 - 🙋 I’m an INFJ-T
@@ -30,7 +29,7 @@
 - 📫 <a href="mailto:preyashyadav29@gmail.com">Send me a mail</a>
 
 
-<h2><img src="https://user-images.githubusercontent.com/73031725/137813700-fd5e8e2e-048c-4fa5-a11e-9969a1ec9059.gif" width="25px"> Connect with me:</h2> 
+<h2><img src="" width="25px"> Connect with me:</h2> 
 <p align="center">
 <a href="https://www.linkedin.com/in/preyash-yadav-827a421b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/heyspidey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey" height="30" width="40" /></a>
@@ -46,7 +45,7 @@
 </p>
 <br>
 
-<h2> <img src="https://user-images.githubusercontent.com/73031725/138287528-61ed7949-20f0-44b3-8cf1-53d02ce950b0.gif" width="25px">  Languages and Tools: </h2>
+<h2> <img src="" width="25px">  Languages and Tools: </h2>
 <p align="center"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -65,13 +64,13 @@
 
 <br>
 
-<h2> <img src="https://user-images.githubusercontent.com/73031725/137622415-bad73435-3790-471b-a5f2-0dabb8b58543.gif" width="30px"> GitHub Stats:</h2>
+<h2> <img src="" width="30px"> GitHub Stats:</h2>
 <table>
   <tr>
      <p align="center">
-      <img src="https://user-images.githubusercontent.com/73031725/137623618-3ca683ce-a649-406a-b48f-f676478ec204.gif" width="150px">
+      <img src="" width="150px">
         <img src="https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
-       <img src="https://user-images.githubusercontent.com/73031725/137628287-b06683ee-0f84-49c4-a7fc-3776d15f9e0c.gif" width="130px">
+       <img src="" width="130px">
     </p>
   </tr>
 </table>
