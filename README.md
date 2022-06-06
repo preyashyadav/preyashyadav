@@ -18,16 +18,18 @@
 - 💻 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
 
 - 🎶 Ask me about(Non-Technical): **Songs, Animals, Nature and Documentaries**.
-
-- 📝 Check out my blogs: <a href="https://blog.cyscomvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a>, 
-<a href="https://blog.cyscomvit.com/2021/11/creating-your-own-chrome-extension-walk.html">Build your own Chrome Extension 🛠</a>, 
-<a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃, </a>
-<a href="https://blog-intelstudent.hashnode.dev/reinforcement-learning-by-intel-ai"> Reinforcement Learning and RL Coach Intel AI 🤖</a>
-
-
+ 
 - 🕸️ Do join  my <a href="https://discord.gg/yTeH8bK9WM"> discord </a> server for more interaction!
 
 - 📫 <a href="mailto:preyashyadav29@gmail.com">Send me a mail</a>
+<table align="center">
+  <tr><td>📝 <strong>Check out my blogs:</strong></td></tr>
+  <tr><td><a href="https://blog.cyscomvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a></td></tr> 
+ <tr><td><a href="https://blog.cyscomvit.com/2021/11/creating-your-own-chrome-extension-walk.html">Build your own Chrome Extension 🛠</a></td></tr> 
+ <tr><td><a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃 </a></td></tr>
+ <tr><td><a href="https://blog-intelstudent.hashnode.dev/reinforcement-learning-by-intel-ai"> Reinforcement Learning and RL Coach Intel AI 🤖</a></td></tr>
+</table>
+
 
 
 <h2><img src="" width="25px"> Connect with me:</h2> 
