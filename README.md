@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
 
 
-
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+Me&size=40)](https://git.io/typing-svg) -->
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a full stack developer.</h3><br>
