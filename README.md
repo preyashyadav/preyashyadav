@@ -26,7 +26,7 @@
 
  <table align="center">
  <tr><td>🤡<strong>PJ</strong> (Programming Jokes more like Poor Jokes...)</td><td>📝 <strong>Check out my blogs:</strong></td></tr>
-  <tr><td><img src="https://readme-jokes.vercel.app/api?theme=highcontrast" align="center"></td><td>
+ <tr><td><p  align="center"><img src="https://readme-jokes.vercel.app/api?theme=dracula" ></p></td><td>
    <table><tr><td><a href="https://blog.cyscomvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a></td></tr>
     <tr><td><a href="https://blog.cyscomvit.com/2021/11/creating-your-own-chrome-extension-walk.html">Build your own Chrome Extension 🛠</a></td></tr> 
  <tr><td><a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃 </a></td></tr>
