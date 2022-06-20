@@ -137,4 +137,7 @@
 
 <!-- https://github-readme-stats.vercel.app/api/wakatime?username=Preyash -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
