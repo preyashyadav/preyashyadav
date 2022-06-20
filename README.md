@@ -121,6 +121,15 @@
     </p>
   </tr>
 </table>
+
+ <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+ 
 <table> 
   <tr>
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
@@ -137,12 +146,6 @@
 
 <!-- https://github-readme-stats.vercel.app/api/wakatime?username=Preyash -->
 
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
