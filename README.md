@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
-<h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a frontend developer and an aspiring full stack developer.</h3><br>
+<h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a full stack developer.</h3><br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code"></p>
 <h2><img src="" > About Me:</h2>
 
