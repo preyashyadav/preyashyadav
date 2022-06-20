@@ -122,6 +122,8 @@
   </tr>
 </table>
 
+<h2> <img src="" width="25px">  Weekly Development Breakdown: </h2>
+
  <!--START_SECTION:waka-->
 
 ```text
