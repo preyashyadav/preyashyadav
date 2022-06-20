@@ -125,7 +125,9 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Git Config   42 mins         █████████▒░░░░░░░░░░░░░░░   37.28 %
+JavaScript   40 mins         █████████░░░░░░░░░░░░░░░░   35.47 %
+Other        21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
 ```
 
 <!--END_SECTION:waka-->
