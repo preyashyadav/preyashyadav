@@ -143,7 +143,7 @@ Other        21 mins         ████▓░░░░░░░░░░░░
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73031725/140681260-68fb2916-3a67-42a8-931e-c035cb7d54ff.gif" width="5000px">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 
 
