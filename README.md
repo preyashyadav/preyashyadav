@@ -98,9 +98,9 @@
 <table>
   <tr>
      <p align="center">
-      <img src="" width="150px">
+      <img src="https://media2.giphy.com/media/Jq81o9UbQeLcm408jW/giphy.gif?cid=ecf05e4781wp2xfm8r3nwdxizkzyr0pwuijlqgk7g6edj030&rid=giphy.gif&ct=s" width="150">
         <img src="https://github-profile-trophy.vercel.app/?username=Preyash-tryin-to-code&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
-       <img src="" width="130px">
+       <img src="https://media4.giphy.com/media/VxfaQY2sgeEFxkxZzt/giphy.gif?cid=ecf05e47v5q8uwzz0gt3y97x5d7onuvzh61iuw6vsx792960&rid=giphy.gif&ct=s" width="130">
     </p>
   </tr>
 </table>
