@@ -130,8 +130,6 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2022 - To: 20 June 2022
-
 Git Config   42 mins         █████████▒░░░░░░░░░░░░░░░   37.28 %
 JavaScript   40 mins         █████████░░░░░░░░░░░░░░░░   35.47 %
 Other        21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
