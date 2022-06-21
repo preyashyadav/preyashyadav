@@ -113,12 +113,17 @@
 <table>
   <tr>
     <p align="center">
-      <img src="" width="140px">
+      <img src="https://user-images.githubusercontent.com/73031725/174701869-d138bdf9-9a11-476a-8c73-e9f51d6e670b.gif" width="140">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=radical" alt="preyash-tryin-to-code">
-      <img src="" width="160px">
+<!--       <img src="https://thumbs.gfycat.com/RapidIllegalKronosaurus-max-1mb.gif" width="140"> -->
+     <img src="https://thumbs.gfycat.com/RapidSentimentalDeermouse-size_restricted.gif" width="160">
     </p>
   </tr>
 </table>
+
+
+
+
 
 <h2> <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="30">  Monthly Development Breakdown: </h2>
 
