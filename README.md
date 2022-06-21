@@ -1,6 +1,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif"> -->
 
-<img src="https://64.media.tumblr.com/b88e135703ca8a0fc286705042134b8a/44bb15cfb8f2668e-64/s540x810/d356389a6568bc857cb29205bd371815a5d05243.gifv" width="5000">
+<img src="https://user-images.githubusercontent.com/73031725/174691094-96cf44b7-b099-45ba-9d7d-40b047bb58c8.gif" width="5000">
+
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+Me&size=40)](https://git.io/typing-svg) -->
