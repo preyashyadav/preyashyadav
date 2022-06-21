@@ -143,7 +143,7 @@ Other        21 mins         ████▓░░░░░░░░░░░░
   </tr>
 </table>
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/863930103154127.5f46acc8b77bb.gif">
 
 
 
