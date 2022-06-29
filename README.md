@@ -29,7 +29,7 @@
     <tr><td><a href="https://blog.cyscomvit.com/2021/11/creating-your-own-chrome-extension-walk.html">Build your own Chrome Extension 🛠</a></td></tr> 
  <tr><td><a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃 </a></td></tr>
  <tr><td><a href="https://blog-intelstudent.hashnode.dev/reinforcement-learning-by-intel-ai"> Reinforcement Learning and RL Coach Intel AI 🤖</a></td></tr>
-  <tr><td><a href="https://blog.cyscomvit.com/2022/06/the-security-risks-associated-with.html"> target="_blank" 🎯</a></td></tr>
+  <tr><td><a href="https://blog.cyscomvit.com/2022/06/the-security-risks-associated-with.html"> A security risk target="_blank" 🎯</a></td></tr>
    </table></td></tr> 
 </table>
  
