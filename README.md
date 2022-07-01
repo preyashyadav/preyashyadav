@@ -37,10 +37,12 @@
 
 <p>
 <ul>
-<li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a>- Formerly website team member for an year and currently the Interim Development Manger, worked on multiple projects and websites of CYSCOM.</li>
+<li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a>- Former website team member, worked on multiple projects and websites of CYSCOM. Also wrote blogs in different doamins.</li>
+ <li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a>- Interim Development Manger.</li>
 <li><a href="https://hacktoberfest.digitalocean.com/">Hacktober Fest 2021</a>- Contributed to Open Source and conducted a <a href="https://youtu.be/JehEfea4dZY">webinar</a> on Open Source.</li>
  <li><a href="https://chennai.vit.ac.in/research/research-centre/centre-for-cyber-physical-systems#1653536184722-d5b3a6c1-a312">Summer Research Intern</a> </li>
  <li><a href="https://github.com/Intel-Student-Ambassadors">Intel Student Ambassadors-Core Committee Member</a> </li>
+ <li><a href="https://www.postman.com/">Postman Student Expert</a></li>
 </ul>
 </p>
 
