@@ -33,7 +33,7 @@
    </table></td></tr> 
 </table>
  
-<h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Work Experience:</h2>
+<h2><img src="https://media0.giphy.com/media/h4x6RMBru1Mx7zLWko/200.webp?cid=ecf05e47737ufpauflnlifh1q63y74ego72hf9x91yswn2ot&rid=200.webp&ct=s" width="30"> Work Experience:</h2>
 
 <p>
 <ul>
