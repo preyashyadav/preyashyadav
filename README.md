@@ -33,7 +33,7 @@
    </table></td></tr> 
 </table>
  
-<h2><img src="https://media0.giphy.com/media/h4x6RMBru1Mx7zLWko/200.webp?cid=ecf05e47737ufpauflnlifh1q63y74ego72hf9x91yswn2ot&rid=200.webp&ct=s" width="30"> Work Experience:</h2>
+<h2><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6992ebd-3a15-40a0-9639-c88a61c9a5c5/d7kgjax-60adb857-eef1-43ae-9e7c-7a7c8c34b4b4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y2OTkyZWJkLTNhMTUtNDBhMC05NjM5LWM4OGE2MWM5YTVjNVwvZDdrZ2pheC02MGFkYjg1Ny1lZWYxLTQzYWUtOWU3Yy03YTdjOGMzNGI0YjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gdx8AFE7WHFRDf5jCzz6-A3CFYva7yZeBoJ8bY6So0A" width="50"> Work Experience:</h2>
 
 <p>
 <ul>
