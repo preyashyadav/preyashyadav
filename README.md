@@ -33,7 +33,16 @@
    </table></td></tr> 
 </table>
  
+<h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Work Experience:</h2>
 
+<p>
+<ul>
+<li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a> Formerly website team member for an year and currently the Interim Development Manger, worked on multiple projects and websites of CYSCOM.</li>
+<li><a href="https://hacktoberfest.digitalocean.com/">Hacktober Fest 2021</a> Contributed to Open Source and conducted a <a href="https://youtu.be/JehEfea4dZY">webinar</a> on Open Source.</li>
+<li>A</li>
+<li>A</li>
+</ul>
+</p>
 
 
 <h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Connect with me:</h2> 
