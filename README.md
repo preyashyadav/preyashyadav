@@ -9,11 +9,11 @@
 
 - 🙋 I’m an INFJ-T
 
-- 🌱 I’m currently learning **React JS, Flask, and many more cool techstacks.**
+- 🌱 I’m currently learning **AI-ML, Data Science and many more cool techstacks.**
 
 - 👀 I’m looking to collaborate on **writing Research Papers, building cool projects.**
 
-- 💻 Ask me about(Technical): **Frontend Dev, Programming Languages, Tech stuffs.**
+- 💻 Ask me about(Technical): **Frontend Dev, Backend Dev, Programming Languages, Tech stuffs.**
 
 - 🎶 Ask me about(Non-Technical): **Songs, Animals, Nature and Documentaries**.
  
