@@ -21,6 +21,8 @@
 
 - 📫 <a href="mailto:preyashyadav29@gmail.com">Send me a mail</a>
 
+- <p>📰 <a href="https://mighty-fjord-90113.herokuapp.com/">Subscribe</a> to my News Letter so that you can be notified, whenever I post a new blog.</p>
+
 
  <table align="center">
  <tr><td>🤡<del>Poor Jokes </del> <strong>Programming Jokes...</strong></td><td>📝 <strong>Check out my blogs:</strong></td></tr>
