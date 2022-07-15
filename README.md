@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a full stack developer.</h3><br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code">  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=10">
-<img src="https://camo.githubusercontent.com/b53d7c038400a831a40aa65ec18ea6f620c4a6d9e8fde7338aa02804e7f3705d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6a61796465657064657930333f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/Preyash-tryin-to-code?label=Followers&amp;style=social" style="max-width: 100%;">
+<img alt="GitHub Badge" src="https://img.shields.io/github/followers/Preyash-tryin-to-code?label=Followers&amp?" style="max-width: 100%;">
 
 </p>
 <h2><img src="https://media2.giphy.com/media/2wY00jRyFHri6196on/giphy.webp?cid=ecf05e47nc0k1y9poljzd16hen2plwit0luhgzsh915hvegx&rid=giphy.webp&ct=s" width="25"> About Me:</h2>
