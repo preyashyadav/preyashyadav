@@ -45,7 +45,7 @@
 <li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a>- Web Dev member, worked on multiple projects and websites of CYSCOM. Also wrote blogs in different doamins.</li>
  <li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a>- Interim Development Manger.</li>
 <li><a href="https://hacktoberfest.digitalocean.com/">Hacktober Fest 2021</a>- Contributed to Open Source and conducted a <a href="https://youtu.be/JehEfea4dZY">webinar</a> on Open Source.</li>
- <li><a href="https://chennai.vit.ac.in/research/research-centre/centre-for-cyber-physical-systems#1653536184722-d5b3a6c1-a312">Summer Research Intern</a> </li>
+ <li><a href="https://chennai.vit.ac.in/research/research-centre/centre-for-cyber-physical-systems#1653536184722-d5b3a6c1-a312">Summer Research Intern</a> <p> Worked on developing a graphical password authentication system which can be used by even color blind people, integrated 3 level of security authentication. Wrote a research paper on it.</li>
  <li><a href="https://github.com/Intel-Student-Ambassadors">Intel Student Ambassadors-Core Committee Member</a> </li>
  <li><a href="https://www.postman.com/">Postman Student Expert</a></li>
 </ul>
