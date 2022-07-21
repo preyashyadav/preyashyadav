@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif" width="1200">
+<img src="https://c.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif">
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+Me&size=40)](https://git.io/typing-svg) -->
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
