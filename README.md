@@ -150,9 +150,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-EJS          4 mins          ███████████▓░░░░░░░░░░░░░   46.62 %
-CSS          4 mins          ██████████▒░░░░░░░░░░░░░░   41.44 %
-JavaScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
