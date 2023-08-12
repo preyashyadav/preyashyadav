@@ -30,8 +30,12 @@
 
 
  <table align="center">
- <tr><td>🤡<del>Poor Jokes </del> <strong>Programming Jokes...</strong></td><td>📝 <strong>Check out my blogs:</strong></td></tr>
- <tr><td><p  align="center"><img src="https://readme-jokes.vercel.app/api?theme=radical" ></p></td><td>
+ <tr><td>🎶<strong>Vibezz</strong></td><td>📝 <strong>Check out my blogs:</strong></td></tr>
+<!--  <tr><td><p  align="center"><img src="https://readme-jokes.vercel.app/api?theme=radical" ></p></td><td> -->
+  <td><div align="center">
+   <a href="https://open.spotify.com/user/wuxiv9rvndf46t12cxfwbb7j2">
+     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wuxiv9rvndf46t12cxfwbb7j2&count=5&unique=true" alt="Spotify recently played"  />
+   </a></td><td>
    <table><tr><td><a href="https://blog.cyscomvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a></td></tr>
     <tr><td><a href="https://blog.cyscomvit.com/2021/11/creating-your-own-chrome-extension-walk.html">Build your own Chrome Extension 🛠</a></td></tr> 
  <tr><td><a href="https://dev.to/preyash/hackoween-my-first-hacktoberfest-2o95">  Hackoween🎃 </a></td></tr>
@@ -73,22 +77,9 @@
 
 <h2> <img src="https://media0.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="32">  Languages and Tools: </h2>
 
-<!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> -->
- <p align="center"> 
+<p align="center"> 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -145,8 +136,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -158,14 +148,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -182,8 +164,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -224,8 +204,10 @@
 
 
 <h2> <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="30">   Development Breakdown: </h2>
-
- <!--START_SECTION:waka-->
+<table>
+ <tr>
+  <td>
+    <!--START_SECTION:waka-->
 
 ```txt
 JavaScript   25 mins         █████████▒░░░░░░░░░░░░░░░   37.61 %
@@ -236,6 +218,13 @@ Bash         2 mins          █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+  </td>
+  <td>
+   <img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
+  </td>
+ </tr>
+</table>
+
  
 <table> 
   <tr>
@@ -243,10 +232,7 @@ Bash         2 mins          █░░░░░░░░░░░░░░░░
    </tr>
 </table>
 <table> 
-   <div align="center">
-   <a href="https://open.spotify.com/user/wuxiv9rvndf46t12cxfwbb7j2">
-     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wuxiv9rvndf46t12cxfwbb7j2&count=5&unique=true" alt="Spotify recently played"  />
-   </a>
+   
 </div>
 </table>
 
