@@ -48,6 +48,7 @@
 
 <p>
 <ul>
+<li><a href="https://www.linkedin.com/posts/preyashyadav_vit-vitchennai-technology-activity-7036657572443037696-jRFk?utm_source=share&utm_medium=member_desktop">Full Stack Developer</a> Developed the <a href="https://vit-tec.vit.ac.in">website</a> for VIT Technology Enhancement Center.
 <li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a>- Web Dev member, worked on multiple projects and websites of CYSCOM. Also wrote blogs in different doamins.</li>
  <li><a href="https://cyscomvit.com/">CYSCOM VIT Student Chapter</a>- General Secretary.</li>
  <li><a href="https://github.com/IoTHINC-VIT-Chennai">IoTHINC VITC</a>- Technical Head.</li>
@@ -87,7 +88,6 @@
 <h2> <img src="https://media0.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="32">  Languages and Tools: </h2>
 
 <p align="center"> 
-<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
