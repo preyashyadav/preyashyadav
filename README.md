@@ -61,17 +61,26 @@
 
 <h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Connect with me:</h2> 
 <p align="center">
-<a href="https://www.linkedin.com/in/preyash-yadav-827a421b6/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyash yadav"  width="40" /></a>
-<a href="https://www.hackerrank.com/heyspidey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyspidey"  width="40" /></a>
-<a href="https://www.blogger.com/profile/12732308473402981224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="preyash"  width="40" /></a>
-<a href="https://dev.to/preyash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="preyashDev.to"  width="40" /></a>
-<a href="https://medium.com/@preyashyadav29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="preyash"  width="40" /></a>
-<a href="https://stackoverflow.com/users/16488334/preyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16488334/preyash" height="30" width="40" /></a>
-<a href="https://codepen.io/your-work/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="preyash"  width="40" /></a>
-<a href="https://twitter.com/preyash29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preyash"  width="40" /></a>
-<a href="https://www.instagram.com/p_r.e_y_a.s_h/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyspidey"  width="40" /></a>
-<a href="https://open.spotify.com/user/wuxiv9rvndf46t12cxfwbb7j2?si=5765f49661a74d3d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="heyspidey" height="30" width="40" /></a>
-<a href="https://discord.gg/yTeH8bK9WM" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="heyspidey"  width="40" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/preyashyadav/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/HeySpidey" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="mailto:preyashyadav29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/p_r.e_y_a.s_h" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCkDii4wjOVlQAsK1a3kxN1A" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
 </p>
 <br>
 
@@ -204,10 +213,8 @@
 
 
 <h2> <img src="https://media1.giphy.com/media/S8BY5l1YAfN7VIOhOk/giphy.gif?cid=ecf05e47ekos670jlv5x7qkmrpop0mmnf90tin4ktdr7qoih&rid=giphy.gif&ct=s" width="30">   Development Breakdown: </h2>
-<table>
- <tr>
-  <td>
-    <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 
 ```txt
 HTML         1 hr 57 mins    ████████████▓░░░░░░░░░░░░   51.24 %
@@ -218,12 +225,9 @@ Bash         2 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-  </td>
-  <td>
-   <img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
-  </td>
- </tr>
-</table>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
+</p>
 
  
 <table> 
