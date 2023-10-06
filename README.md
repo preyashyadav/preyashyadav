@@ -5,8 +5,8 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a full stack developer.</h3><br>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyash-tryin-to-code">  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=10">
-<img alt="GitHub Badge" src="https://img.shields.io/github/followers/Preyash-tryin-to-code?label=Followers&amp?" style="max-width: 100%;">
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyashyadav">  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=10">
+<img alt="GitHub Badge" src="https://img.shields.io/github/followers/preyashyadav?label=Followers&amp?" style="max-width: 100%;">
 
 </p>
 <h2><img src="https://media2.giphy.com/media/2wY00jRyFHri6196on/giphy.webp?cid=ecf05e47nc0k1y9poljzd16hen2plwit0luhgzsh915hvegx&rid=giphy.webp&ct=s" width="25"> About Me:</h2>
@@ -195,15 +195,15 @@
 <h2> <img src="https://media2.giphy.com/media/IcnxGGAj0ubyB2r5M6/200.webp?cid=ecf05e47900iqfayjkbkp24q0ry9tcyitrxtdp8q1nk8curl&rid=200.webp&ct=s" width="30"> GitHub Stats:</h2>
 <table> 
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Preyash-tryin-to-code&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyash-tryin-to-code&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=preyashyadav&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preyashyadav&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
 <table>
   <tr>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/73031725/174701869-d138bdf9-9a11-476a-8c73-e9f51d6e670b.gif" width="140">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyash-tryin-to-code&theme=radical" alt="preyash-tryin-to-code">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=preyashyadav&theme=radical" alt="preyashyadav">
 <!--       <img src="https://thumbs.gfycat.com/RapidIllegalKronosaurus-max-1mb.gif" width="140"> -->
      <img src="https://thumbs.gfycat.com/RapidSentimentalDeermouse-size_restricted.gif" width="160">
     </p>
@@ -228,13 +228,13 @@ Markdown     5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/preyashyadav/preyashyadav/output/snake.svg" alt="Snake animation" />
 </p>
 
  
 <table> 
   <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preyashyadav&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
 <table> 
