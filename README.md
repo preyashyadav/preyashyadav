@@ -9,6 +9,8 @@
 <img alt="GitHub Badge" src="https://img.shields.io/github/followers/preyashyadav?label=Followers&amp?" style="max-width: 100%;">
 
 </p>
+
+
 <h2><img src="https://media2.giphy.com/media/2wY00jRyFHri6196on/giphy.webp?cid=ecf05e47nc0k1y9poljzd16hen2plwit0luhgzsh915hvegx&rid=giphy.webp&ct=s" width="25"> About Me:</h2>
 
 
@@ -43,7 +45,8 @@
   <tr><td><a href="https://blog.cyscomvit.com/2022/06/the-security-risks-associated-with.html"> A security risk target="_blank" 🎯</a></td></tr>
    </table></td></tr> 
 </table>
- 
+
+
 <h2><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6992ebd-3a15-40a0-9639-c88a61c9a5c5/d7kgjax-60adb857-eef1-43ae-9e7c-7a7c8c34b4b4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y2OTkyZWJkLTNhMTUtNDBhMC05NjM5LWM4OGE2MWM5YTVjNVwvZDdrZ2pheC02MGFkYjg1Ny1lZWYxLTQzYWUtOWU3Yy03YTdjOGMzNGI0YjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gdx8AFE7WHFRDf5jCzz6-A3CFYva7yZeBoJ8bY6So0A" width="50"> Work Experience:</h2>
 
 <p>
@@ -193,6 +196,9 @@
 <br>
 
 <h2> <img src="https://media2.giphy.com/media/IcnxGGAj0ubyB2r5M6/200.webp?cid=ecf05e47900iqfayjkbkp24q0ry9tcyitrxtdp8q1nk8curl&rid=200.webp&ct=s" width="30"> GitHub Stats:</h2>
+
+
+ 
 <table> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=preyashyadav&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
@@ -242,6 +248,8 @@ YAML         24 mins         █▓░░░░░░░░░░░░░░░
 </div>
 </table>
 
+
+[![An image of @preyashtryintocode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preyashtryintocode)](https://holopin.io/@preyashtryintocode)
 
 
 
