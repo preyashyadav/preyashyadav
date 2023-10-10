@@ -234,7 +234,7 @@ YAML         24 mins         █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/preyashyadav/preyashyadav/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
 </p>
 
  
