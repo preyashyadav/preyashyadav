@@ -234,11 +234,7 @@ YAML         24 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/preyashyadav/preyashyadav/output/snake-dark.svg" alt="Snake animation" />
- </picture>
+<img src ="https://github.com/preyashyadav/preyashyadav/blob/output/github-contribution-grid-snake2.svg"/>
 </p>
 
  
