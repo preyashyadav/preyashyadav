@@ -233,9 +233,8 @@ YAML         24 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<p align="center">
-<img src ="https://github.com/preyashyadav/preyashyadav/blob/output/github-contribution-grid-snake2.svg"/>
-</p>
+
+![snake animation](https://github.com/preyashyadav/preyashyadav/blob/output/github-contribution-grid-snake2.svg)
 
  
 <table> 
