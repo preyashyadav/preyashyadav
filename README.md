@@ -234,7 +234,11 @@ YAML         24 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/preyashyadav/preyashyadav/output/snake-dark.svg" alt="Snake animation" />
+ </picture>
 </p>
 
  
