@@ -36,7 +36,7 @@
 <!--  <tr><td><p  align="center"><img src="https://readme-jokes.vercel.app/api?theme=radical" ></p></td><td> -->
   <td><div align="center">
    <a href="https://open.spotify.com/user/wuxiv9rvndf46t12cxfwbb7j2">
-     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wuxiv9rvndf46t12cxfwbb7j2&count=5&unique=true" alt="Spotify recently played"  />
+     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wuxiv9rvndf46t12cxfwbb7j2"&count=5&unique=true" alt="Spotify recently played"  />
    </a></td><td>
    <table><tr><td><a href="https://blog.cyscomvit.com/2021/09/malicious-chrome-extensions.html" >Malicioius Chrome Extensions😈</a></td></tr>
     <tr><td><a href="https://blog.cyscomvit.com/2021/11/creating-your-own-chrome-extension-walk.html">Build your own Chrome Extension 🛠</a></td></tr> 
@@ -247,9 +247,9 @@ YAML         24 mins         ▓░░░░░░░░░░░░░░░░
 </div>
 </table>
 
-
-[![An image of @preyashtryintocode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preyashtryintocode)](https://holopin.io/@preyashtryintocode)
-
+<a href="https://www.holopin.io/@preyashtryintocode">
+<img src="https://github.com/preyashyadav/preyashyadav/assets/73031725/e48db309-d675-44f7-9efc-2b55117efde8"/>
+</a>
 
 
 
