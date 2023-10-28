@@ -11,6 +11,8 @@
 </p>
 
 
+[![An image of @preyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preyash)](https://holopin.io/@preyash)
+
 <h2><img src="https://media2.giphy.com/media/2wY00jRyFHri6196on/giphy.webp?cid=ecf05e47nc0k1y9poljzd16hen2plwit0luhgzsh915hvegx&rid=giphy.webp&ct=s" width="25"> About Me:</h2>
 
 
@@ -247,9 +249,7 @@ JSON         30 mins         ▒░░░░░░░░░░░░░░░░
 </div>
 </table>
 
-<a href="https://www.holopin.io/@preyashtryintocode">
-<img src="https://github.com/preyashyadav/preyashyadav/assets/73031725/e48db309-d675-44f7-9efc-2b55117efde8"/>
-</a>
+
 
 
 
