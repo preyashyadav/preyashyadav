@@ -6,10 +6,15 @@
 <h2  align="center" >This is my website <a href="https://preyashyadav.com/">www.preyashyadav.com</a></h2>
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a full stack developer.</h3><br>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyashyadav">  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=10">
-<img alt="GitHub Badge" src="https://img.shields.io/github/followers/preyashyadav?label=Followers&amp?" style="max-width: 100%;">
 
+<p>
+<div align="right"><img src="https://komarev.com/ghpvc/?username=Preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyashyadav">  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=10">
+<img alt="GitHub Badge" src="https://img.shields.io/github/followers/preyashyadav?label=Followers&amp?" style="max-width: 100%;">
+<br/>
+<a href="https://wakatime.com/@f6ce8107-4d40-4869-8db4-768e7460453c"><img src="https://wakatime.com/badge/user/f6ce8107-4d40-4869-8db4-768e7460453c.svg" alt="Total time coded since Jun 20 2022" /></a>
+ </div>
 </p>
+
 
 
 [![An image of @preyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preyash)](https://holopin.io/@preyash)
