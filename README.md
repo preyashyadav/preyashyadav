@@ -3,6 +3,7 @@
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+Me&size=40)](https://git.io/typing-svg) -->
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
+<h2  align="center" >This is my website <a href="https://preyashyadav.com/">www.preyashyadav.com</a></h2>
 
 <h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a full stack developer.</h3><br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyashyadav">  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=10">
