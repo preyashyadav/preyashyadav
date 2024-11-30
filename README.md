@@ -5,7 +5,7 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 <h2  align="center" >This is my website <a href="https://preyashyadav.com/">www.preyashyadav.com</a></h2>
 
-<h3 align="center">I'm pursuing my undergraduate  studies in Computer Science and Engineering with specialization in Cyber Physical Systems. I'm a full stack developer.</h3><br>
+<h3 align="center">I'm pursuing my Masters in Computer Science at University of California, Davis.</h3><br>
 
 <p>
 <div align="right"><img src="https://komarev.com/ghpvc/?username=Preyash-tryin-to-code&label=Profile%20views&color=b60e2a&style=plastic" alt="preyashyadav">  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=10">
@@ -39,9 +39,9 @@
 - <p>📰 <a href="https://mighty-fjord-90113.herokuapp.com/">Subscribe</a> to my News Letter so that you can be notified, whenever I post a new blog.</p>
 
 
- <table align="center">
+<!-- <table align="center">
  <tr><td>🎶<strong>Vibezz</strong></td><td>📝 <strong>Check out my blogs:</strong></td></tr>
-<!--  <tr><td><p  align="center"><img src="https://readme-jokes.vercel.app/api?theme=radical" ></p></td><td> -->
+ <tr><td><p  align="center"><img src="https://readme-jokes.vercel.app/api?theme=radical" ></p></td><td>
   <td><div align="center">
    <a href="https://open.spotify.com/user/wuxiv9rvndf46t12cxfwbb7j2">
      <img src="https://spotify-recently-played-readme.vercel.app/api?user=wuxiv9rvndf46t12cxfwbb7j2"&count=5&unique=true" alt="Spotify recently played"  />
@@ -52,7 +52,7 @@
  <tr><td><a href="https://blog-intelstudent.hashnode.dev/reinforcement-learning-by-intel-ai"> Reinforcement Learning and RL Coach Intel AI 🤖</a></td></tr>
   <tr><td><a href="https://blog.cyscomvit.com/2022/06/the-security-risks-associated-with.html"> A security risk target="_blank" 🎯</a></td></tr>
    </table></td></tr> 
-</table>
+</table> -->
 
 
 <h2><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6992ebd-3a15-40a0-9639-c88a61c9a5c5/d7kgjax-60adb857-eef1-43ae-9e7c-7a7c8c34b4b4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y2OTkyZWJkLTNhMTUtNDBhMC05NjM5LWM4OGE2MWM5YTVjNVwvZDdrZ2pheC02MGFkYjg1Ny1lZWYxLTQzYWUtOWU3Yy03YTdjOGMzNGI0YjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gdx8AFE7WHFRDf5jCzz6-A3CFYva7yZeBoJ8bY6So0A" width="50"> Work Experience:</h2>
