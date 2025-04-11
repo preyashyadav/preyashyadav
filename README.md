@@ -17,7 +17,7 @@
 
 
 
-[![An image of @preyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preyash)](https://holopin.io/@preyash)
+<!-- [![An image of @preyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preyash)](https://holopin.io/@preyash)
 
 <h2><img src="https://media2.giphy.com/media/2wY00jRyFHri6196on/giphy.webp?cid=ecf05e47nc0k1y9poljzd16hen2plwit0luhgzsh915hvegx&rid=giphy.webp&ct=s" width="25"> About Me:</h2>
 
@@ -36,7 +36,7 @@
 
 - 📫 <a href="mailto:preyashyadav29@gmail.com">Send me a mail</a>
 
-- <p>📰 <a href="https://mighty-fjord-90113.herokuapp.com/">Subscribe</a> to my News Letter so that you can be notified, whenever I post a new blog.</p>
+- <p>📰 <a href="https://mighty-fjord-90113.herokuapp.com/">Subscribe</a> to my News Letter so that you can be notified, whenever I post a new blog.</p> !-->
 
 
 <!-- <table align="center">
@@ -54,7 +54,7 @@
    </table></td></tr> 
 </table> -->
 
-
+<!--
 <h2><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6992ebd-3a15-40a0-9639-c88a61c9a5c5/d7kgjax-60adb857-eef1-43ae-9e7c-7a7c8c34b4b4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y2OTkyZWJkLTNhMTUtNDBhMC05NjM5LWM4OGE2MWM5YTVjNVwvZDdrZ2pheC02MGFkYjg1Ny1lZWYxLTQzYWUtOWU3Yy03YTdjOGMzNGI0YjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gdx8AFE7WHFRDf5jCzz6-A3CFYva7yZeBoJ8bY6So0A" width="50"> Work Experience:</h2>
 
 <p>
@@ -68,7 +68,7 @@
  <li><a href="https://github.com/Intel-Student-Ambassadors">Intel Student Ambassadors-Core Committee Member</a> </li>
  <li><a href="https://www.postman.com/">Postman Student Expert</a></li>
 </ul>
-</p>
+</p> -->
 
 
 <h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Connect with me:</h2> 
