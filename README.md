@@ -1,5 +1,10 @@
 <!-- GitHub Profile README — Preyash Yadav -->
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,50:111827,100:050505&height=120&section=header" alt="Header" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,45:111827,100:374151&text=Preyash%20Yadav&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20MS%20CS%20%40%20UC%20Davis&descSize=18&descAlignY=62&animation=fadeIn" alt="Preyash Yadav header" />
 </p>
