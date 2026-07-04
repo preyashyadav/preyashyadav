@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,50:111827,100:050505&height=120&section=header" alt="Header" />
 </p>
-
+<h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,45:111827,100:374151&text=Preyash%20Yadav&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20MS%20CS%20%40%20UC%20Davis&descSize=18&descAlignY=62&animation=fadeIn" alt="Preyash Yadav header" />
 </p>
@@ -191,7 +191,7 @@ Interests    AI agents · Voice UX · Reliable systems · Health tech · DevTool
 <img src="https://c.tenor.com/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif">
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+Me&size=40)](https://git.io/typing-svg) -->
-<h1 align="center"><img src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif">Hi, I'm Preyash, you can call me Spidey🕸</h1>
+
 <h2  align="center" >This is my website <a href="https://preyashyadav.com/">www.preyashyadav.com</a></h2>
 
 <h3 align="center">I'm pursuing my Masters in Computer Science at University of California, Davis.</h3><br>
