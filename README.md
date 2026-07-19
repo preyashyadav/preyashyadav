@@ -68,8 +68,8 @@ Open to      SWE · Backend · Full-Stack · Applied AI · Forward Deployed Engi
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://www.npmjs.com/package/sessionlint">SessionLint</a></h3>
-      <p>A local-first CLI that audits Claude Code transcripts, explains avoidable model and context costs as honest ranges, and adds budgets and convergence controls for autonomous runs.</p>
-      <p><b>Published on npm with 485 passing tests; private by default with no account, server, or telemetry.</b></p>
+      <p>A local-first CLI that audits Claude Code transcripts, identifies model and context patterns that often drive API-equivalent cost, and adds budgets and convergence controls for autonomous runs.</p>
+      <p><b>Published on npm with 495 passing tests; private by default with no account, server, or telemetry.</b></p>
       <p><code>TypeScript</code> <code>Bun</code> <code>Claude Code</code> <code>CLI</code> <code>Agent Evals</code> <code>CI</code></p>
     </td>
   </tr>
