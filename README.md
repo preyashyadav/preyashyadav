@@ -4,11 +4,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,50:111827,100:050505&height=120&section=header" alt="Gradient header" />
 </p>
 
-<h1 align="center">
-  <img width="58" src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif" alt="Pikachu waving" />
-  Hi, I'm Preyash — you can call me Spidey 🕸️
-</h1>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,45:111827,100:374151&text=Preyash%20Yadav&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%7C%20MS%20CS%20%40%20UC%20Davis&descSize=18&descAlignY=62&animation=fadeIn" alt="Preyash Yadav — Software Engineer, Agentic AI, MS CS at UC Davis" />
 </p>
@@ -28,9 +23,9 @@
 
 ---
 
-## About
+## <img width="30" src="https://user-images.githubusercontent.com/73031725/172013996-91b6f6f8-a65f-46ad-99ea-3c304f1a4dd4.gif" alt="Pikachu waving" />  About 
 
-I’m a **Software Engineer and MS CS student at UC Davis** focused on backend systems, full-stack products, and reliable agentic AI. At **UC Davis Health**, I build AI-Care: a conversational caregiving system with stateful orchestration, tool execution, structured clarification, evaluation pipelines, and safety guardrails.
+Hi, I'm Preyash — you can call me Spidey 🕸️, a **Software Engineer and MS CS student at UC Davis** focused on backend systems, full-stack products, and reliable agentic AI. At **UC Davis Health**, I build AI-Care: a conversational caregiving system with stateful orchestration, tool execution, structured clarification, evaluation pipelines, and safety guardrails.
 
 <p align="center">
   <img width="56" src="./assets/preyashyadav-logo.png" alt="Preyash Yadav monogram" />
