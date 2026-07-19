@@ -32,11 +32,11 @@
 
 I’m a **Software Engineer and MS CS student at UC Davis** focused on backend systems, full-stack products, and reliable agentic AI. At **UC Davis Health**, I build AI-Care: a conversational caregiving system with stateful orchestration, tool execution, structured clarification, evaluation pipelines, and safety guardrails.
 
-My work sits where research meets production. I enjoy taking ownership of ambiguous systems, translating workflows from researchers and non-technical stakeholders into dependable software, and measuring whether the result actually improves reliability, performance, or user experience.
-
 <p align="center">
   <img width="56" src="./assets/preyashyadav-logo.png" alt="Preyash Yadav monogram" />
 </p>
+
+My work sits where research meets production. I enjoy taking ownership of ambiguous systems, translating workflows from researchers and non-technical stakeholders into dependable software, and measuring whether the result actually improves reliability, performance, or user experience.
 
 ```txt
 Focus        Backend Systems · Full-Stack Products · Agentic AI · Applied Research
